@@ -8,7 +8,7 @@
 
 🦜 Asyncrono
 
-🦜 Orinetada a eventos
+🦜 Orientada a eventos
 
 🦜 Basado en el motor V8 chrome
 
@@ -50,3 +50,9 @@ Permite instalar diferentes versiones de nodeJS
 ## Express
 
 [📎 DOC Api](http://expressjs.com/en/4x/api.html)
+
+## Express generator
+
+```bash
+$ npx express-generator name-project --ejs
+```
